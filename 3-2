@@ -1,0 +1,9 @@
+echo "# ThirdProject" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/subbareddy0050/ThirdProject.git
+git push -u origin main
+3-2
+3-1 already Created
